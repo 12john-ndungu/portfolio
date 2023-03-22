@@ -130,6 +130,13 @@ form button:hover{
     cursor:pointer;
 
 }
+#auto{
+    font-size:34px;
+}
+.auto{
+  margin-right:3px;
+  font-size: 32px;
+}
 .about{
    height:100%;  
     width:100%;
